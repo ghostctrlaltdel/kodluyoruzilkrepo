@@ -7,7 +7,7 @@ Bu repo Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet R
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-Link: https://github.com/ghostctrlaltdel/kodluyoruzilkrepo.git
+git clone https://github.com/ghostctrlaltdel/kodluyoruzilkrepo.git
 ```
 
 ## Usage
