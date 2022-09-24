@@ -2,14 +2,12 @@
 
 Bu repo Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-[github](figures/github.png)
-
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-Link:https://github.com/ghostctrlaltdel/kodluyoruzilkrepo.git
+Link: https://github.com/ghostctrlaltdel/kodluyoruzilkrepo.git
 ```
 
 ## Usage
